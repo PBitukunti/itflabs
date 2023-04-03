@@ -1,0 +1,52 @@
+
+5.Anomaly Detector Resources
+
+ 
+
+    Anamoly Detector
+https://azure.microsoft.com/en-us/products/cognitive-services/anomaly-detector/
+https://learn.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/
+https://learn.microsoft.com/en-us/shows/ai-show/introducing-azure-anomaly-detector?wt.mc_id=ai-c9-niner
+
+    Metrics Advisor
+https://azure.microsoft.com/en-us/products/metrics-advisor/
+https://learn.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/quickstarts/web-portal
+https://learn.microsoft.com/en-us/azure/applied-ai-services/metrics-advisor/
+
+ 
+
+6.Additional Resources
+
+ 
+
+    Modern Finance
+https://microsoft.sharepoint.com/teams/FinModernFinance/
+https://microsoft.sharepoint.com/teams/FinModernFinance/SitePages/ModernFinanceLearningPaths.aspx
+
+ 
+
+    Micrsosoft 365
+https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-syntex
+
+ 
+
+    Azure AI + ML
+https://azure.microsoft.com/en-us/products/machine-learning/
+https://azure.microsoft.com/en-us/products/applied-ai-services/
+https://azure.microsoft.com/en-us/products/cognitive-services/#overview
+https://azure.microsoft.com/en-us/products/search/
+https://azure.microsoft.com/en-us/products/form-recognizer/
+https://azure.microsoft.com/en-us/products/bot-services/
+https://azure.microsoft.com/en-us/products/machine-learning/automatedml/#overview
+
+
+
+
+Anomaly Detector - Anomaly Detection System | Microsoft Azure
+
+
+
+
+Learn more about Anomaly Detector, a new AI service that uses time-series data to automatically detect anomalies in your apps. Supports multivariate analysis too.
+
+
